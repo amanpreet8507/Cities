@@ -1,0 +1,63 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+ body{
+   font-family: Arial;         
+}
+nav{
+    background-color: grey;
+    height: 60px;
+}
+nav ul{
+    padding: 13px;
+}
+nav ul li{
+    display: inline-block;
+    margin-left: 10px;
+}
+nav ul li a{
+    color: white;
+}
+
+main{
+    text-align: center;
+    margin-top: 40px;
+}
+
+main h1{
+    margin-bottom: 20px;
+}
+main img{
+    border-radius: 20px;
+    margin-bottom: 40px;
+}
+article{
+    width: 720px;
+    margin: auto;
+    
+}
+
+article p{
+    text-align: justify;
+}
+article h3{
+    margin-top: 40px;
+}
+article ul{
+    list-style: none;
+}
+article ul li{
+    padding: 10px;
+}
+main span strong a{
+    color:green;
+}
+hr{
+    width: 70%;
+    margin:auto;
+    margin-top: 50px;
+}
+.space{
+    height: 50px;
+}
